@@ -1,0 +1,8 @@
+-diffrent achievments
+-ranking System
+-tournaments
+-Card database
+-diffrent gamemodes
+-possibility to create own gamemodes
+-ygorules somewhere
+-ruling of the cards
